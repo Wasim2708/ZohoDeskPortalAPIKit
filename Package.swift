@@ -14,6 +14,6 @@ let package = Package(
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
-        .binaryTarget(name: "ZohoDeskPortalAPIKit", url: "https://maven.zohodl.com/ZohoDesk/ZohoDeskPortalAPIKit/3.0.12/ZohoDeskPortalAPIKit.zip", checksum: "9c7020f0fbacefd8b6f484e1e7f015c14182456c8986a9cf9deeda634aec1eea")
+                .binaryTarget(name: "ZohoDeskPortalAPIKit", url: "https://maven.zohodl.com/ZohoDesk/ZohoDeskPortalAPIKit/3.0.13/ZohoDeskPortalAPIKit.zip", checksum: "2bae733ef6384d200ae755cb8da849916a1ad4dc480c7080e4fed7a4bae38e06")
     ]
 )
